@@ -1,0 +1,34 @@
+{
+  "notes": [
+    {
+      "title": "Yoshi's birthday bash",
+      "detail": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book.",
+      "category": "reminders",
+      "id": 1
+    },
+    {
+      "title": "Order a pizza!",
+      "detail": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book.\nLorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book.",
+      "category": "todos",
+      "id": 3
+    },
+    {
+      "title": "To Play Fortnite",
+      "detail": "Have to complete many Mission in fortnite to each 100 level",
+      "category": "todos",
+      "id": 4
+    },
+    {
+      "title": "Have to do Assignmnets",
+      "detail": "In order to complete the internship, we have to do all the assignment successfully.",
+      "category": "work",
+      "id": 5
+    },
+    {
+      "title": "Electricity Bill",
+      "detail": "Have to pay Electricity bill before 29th of feb",
+      "category": "money",
+      "id": 6
+    }
+  ]
+}
